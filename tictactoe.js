@@ -47,7 +47,7 @@ function cambiarimg(nombreColumna){
     if(numeroDeClicks % 2 != 0){
         columna.innerHTML="<img src='resources/icono1.jpg' title='imagen del cap'/>";
     }else{
-        columna.innerHTML="<img src='resources/icono2.jpeg' title='imagen de iron man'/>";
+        columna.innerHTML="<img src='resources/icono2.jpg' title='imagen de iron man'/>";
     }
 }
 function columna2(){
